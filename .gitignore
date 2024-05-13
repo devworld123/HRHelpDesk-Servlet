@@ -1,0 +1,31 @@
+# Ignore IDE-related files and directories
+.idea/
+.vscode/
+*.iml
+.classpath
+.project
+
+
+# Ignore build artifacts
+*.class
+*.jar
+*.war
+
+# Ignore generated files and directories
+target/
+out/
+build/
+.settings/
+
+# Ignore config files
+config.properties
+
+# Ignore log files
+*.log
+
+# Ignore temporary files
+*.tmp
+
+# Ignore entire folders
+logs/
+temp/
