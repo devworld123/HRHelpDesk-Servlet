@@ -18,6 +18,7 @@ import javax.servlet.http.HttpSession;
 @WebServlet("/listUsers")
 
 public class AdminListUsersView  extends HttpServlet{
+// list user page
 	
 	private static final long serialVersionUID = 1L;
 	final String driver="com.mysql.cj.jdbc.Driver";
